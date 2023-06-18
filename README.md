@@ -1,4 +1,4 @@
-# Sorting_Visualizer
+# SortGrid
 
 A web application showcasing the inner workings of sorting algorithms.
 
